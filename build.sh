@@ -1,1 +1,1 @@
-pdf2htmlEX guide.pdf -o docs/index.html
+pdf2htmlEX guide.pdf docs/index.html
