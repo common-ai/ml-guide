@@ -2,7 +2,7 @@
 The Engineering Guide to Machine Learning &amp; Artificial Intelligence
 
 
-Rendered HTML versio
+Rendered HTML version
 ===
 http://dandandan.github.io/guide-ml-engineering.html
 
