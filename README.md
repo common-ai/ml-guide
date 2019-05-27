@@ -2,5 +2,9 @@
 The Engineering Guide to Machine Learning &amp; Artificial Intelligence
 
 
+Rendered HTML versio
+===
+http://dandandan.github.io/guide-ml-engineering.html
+
 The guide is currently early work in progress. 
 Read it, or come back later for a more complete version!
